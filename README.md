@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hola, soy Bruno Rubini
 
-<!--
-**BrunoRubini/BrunoRubini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desarrollador .NET Full Stack**  
+Apasionado por crear aplicaciones web, de escritorio y APIs REST escalables, con foco en la arquitectura, el rendimiento y la experiencia del usuario.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Tecnologías principales
+
+- **Backend:** .NET · C# · Entity Framework Core · ASP.NET Core · MySQL · SQL Server  
+- **Frontend:** React · Vite · Tailwind CSS · ShadCN UI  
+- **Otros:** JWT · Git · GitHub · Clean Architecture · Postman
+
+---
+
+## 🚀 Proyectos destacados
+
+### 💼 MR Punto de Venta 
+Sistema de punto de venta para negocios minoristas.  
+Incluye gestión de productos, stock, ventas, caja, usuarios, suscripciones mensuales, integración con Mercado Pago y sistemas de notificaciones.  
+🔹 [.NET 8 + EF Core + MySQL + React + Tailwind CSS + JWT + Mercado Pago]  
+🌐 [Visitar sitio](https://mrpuntodeventa.com.ar)  
+
+---
+
+### 🧠 ChefHub
+Blog de recetas con autenticación, panel de administración, buscador, subida de imágenes y categorización.  
+🔹 [.NET + EF Core + SQL Server + React + Vite + Tailwind CSS]  
+🔗 [Frontend](https://github.com/BrunoRubini/ChefHubFront)  
+🔗 [Backend](https://github.com/BrunoRubini/ChefHub)
+
+
+## 📫 Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/bruno-rubini) 
+- 📧 brunorubini06@gmail.com 
+
