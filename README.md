@@ -23,13 +23,6 @@ Incluye gestión de productos, stock, ventas, caja, usuarios, suscripciones mens
 
 ---
 
-### 🧠 ChefHub
-Blog de recetas con autenticación, panel de administración, buscador, subida de imágenes y categorización.  
-🔹 [.NET + EF Core + SQL Server + React + Vite + Tailwind CSS]  
-🔗 [Frontend](https://github.com/BrunoRubini/ChefHubFront)  
-🔗 [Backend](https://github.com/BrunoRubini/ChefHub)
-
-
 ## 📫 Contacto
 
 - [LinkedIn](https://www.linkedin.com/in/bruno-rubini) 
